@@ -1,0 +1,34 @@
+﻿ID;VALOR;CONDICAO_PRECO;DATA_ENTREGA;DATA_PAGAMENTO;COMENTARIO_FORNECEDOR
+23423;197;Firme;45 dias;60 dias;
+43456;2500;Firme;45 dias;30 dias;
+67890;150;Firme;45 dias;45 dias;
+12345;120;Firme;45 dias;45 dias;
+82050;220;Firme;60 dias;42 dias;melhor prazo de pagamento, não consigo alterar
+55299;230;Firme;60 dias;45 dias;
+11659;270;Firme;30 dias;45 dias;
+63628;2500;reajustáveis;40 dias;60 dias;preço baseado no dólar do dia, não consigo alterar para firmes
+71055;2550;Firme;45 dias;45 dias;
+51728;3200;Firme;40 dias;60 dias;
+69015;0.01;Firme;40 dias;45 dias;Estou declinando da rodada de negociação
+52763;750.9;Firme;45 dias;60 dias;
+32547;755;Firme;45 dias;42 dias;
+65061;760;Firme;45 das;30 dias;Condição de pagamento são de 30 dias, não consigo alterar
+35238;750;Firme;40 dias;a vista;Devido a quantidade solicitada, não consigo alterar a condição de pagamento
+61480;490;Firme;40 dias;45 dias;
+42666;500;Firme;40 dias;45 dias;
+58410;510;Firme;45 dias;60 dias;
+15660;520;Firme;45 dias;30 dias;Prazo de pagamento sem alteração, não consigo ofertar para 45 dias.
+92594;1500;reajustáveis;45 dias;45 dias;
+47929;1550;Firme;45 dias;45 dias;
+89661;1550;Firme;45 dias;60 dias;
+88512;1600;firme;60 dias;30 dias;Melhor prazo de pagamento apresentado
+90179;4200;Firme;60 dias;35 dias;Melhor prazo de pagamento apresentado
+93763;4500;Firme;45 dias;42 dias;
+93779;4550;Firme;45 dias;45 dias;
+92893;4100;Firme;45 dias;35 dias;Melhor prazo de pagamento apresentado
+52445;3000;Firme;45 dias;45 dias;
+71006;3300;Firme;45 dias;60 dias;
+54498;3600;Firme;45 dias;45 dias;
+26470;699.9;Firme;120 dias;35 dias;
+94059;715;Firme;60 dias;45 dias;
+50027;835;Firme;30 dias;60 dias;
